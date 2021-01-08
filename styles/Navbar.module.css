@@ -1,0 +1,21 @@
+.navbar {
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-decoration: none;
+}
+.nav {
+  display: flex;
+}
+.logo {
+  text-transform: uppercase;
+  color: #333;
+}
+.list {
+  list-style: none;
+  margin-right: 2rem;
+}
+.link {
+  color: #333;
+}
